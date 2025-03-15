@@ -1,0 +1,48 @@
+package com.poc.portfolio.utils;
+
+public final class Constants {
+  public static final String RESUME_FILENAME = "sachin-resume.pdf";
+  public static final String RESUME_FILE_PATH = "src/main/resources/static/file/" + RESUME_FILENAME;
+  public static final String RESUME_MEDIA_TYPE = "application/pdf";
+  public static final String YOUTUBE_ASSET_URL = "/assets/youtube.png";
+  public static final String EMAIL_ASSET_URL = "/assets/email.png";
+  public static final String LINKEDIN_ASSET_URL = "/assets/linkedin.png";
+  public static final String GITHUB_ASSET_URL = "/assets/github.png";
+  public static final String LEETCODE_ASSET_URL = "/assets/leetcode.png";
+  public static final String YOUTUBE_URL = "https://www.youtube.com/@sachinsinghrawat2344";
+  public static final String LINKEDIN_URL = "https://www.linkedin.com/in/sachin-singh-rawat-03748b131/";
+  public static final String GITHUB_URL = "https://github.com/sachinssr";
+  public static final String LEETCODE_URL = "https://leetcode.com/u/sachinsr/";
+//  public static final String LIBRBARY_ASSET_URL = "/assets/librbary.png";
+//  public static final String SECURE_FILE_UPLOAD_ASSET_URL = "/assets/secure-file-upload-project.jpeg";
+  public static final String GEHU_ONLINE_ASSET_URL = "/assets/coer-logo.png";
+//  public static final String LIBRBARY = "Librbary";
+//  public static final String SECURE_FILE_UPLOAD = "Secure File Upload";
+  public static final String GEHU_ONLINE = "COER University";
+  public static final String LIBRBARY_GITHUB_URL = "https://github.com/librbary";
+//  public static final String LIBRBARY_LIVE_DEMO_URL = "https://librbary.github.io/librbary-buy-feature/";
+//  public static final String SECURE_FILE_UPLOAD_GITHUB_URL = "https://github.com/chandan13tiwari/secure-file-upload";
+//  public static final String SECURE_FILE_UPLOAD_LIVE_DEMO_URL = "https://github.com/chandan13tiwari/secure-file-upload";
+//  public static final String GEHU_ONLINE_GITHUB_URL = "https://github.com/chandan13tiwari/GEHU_Online_Project";
+//  public static final String GEHU_ONLINE_LIVE_DEMO_URL = "https://github.com/chandan13tiwari/GEHU_Online_Project";
+  public static final String PROFILE_PIC_ASSET_URL = "/assets/profile-pic.png";
+  public static final String ABOUT_PIC_ASSET_URL = "/assets/about-pic.png";
+  public static final String EXPERIENCE_ASSET_URL = "/assets/experience.png";
+  public static final String EDUCATION_ASSET_URL = "/assets/education.png";
+  public static final String ARROW_ASSET_URL = "/assets/arrow.png";
+  public static final String CHECKMARK_ASSET_URL = "/assets/checkmark.png";
+  public static final String METLIFE_LOGO_URL = "/assets/metlife-logo.png";
+  public static final String TCS_LOGO_URL = "/assets/tcs-logo.jpg";
+//  public static final String ORACLE_LOGO_URL = "/assets/oracle-logo.png";
+//  public static final String MACQUARIE_LOGO_URL = "/assets/mcq-logo.jpg";
+//  public static final String AMEX_LOGO_URL = "/assets/amex-logo.jpg";
+//  public static final String EY_LOGO_URL = "/assets/ey-logo.png";
+//  public static final String HSBC_LOGO_URL = "/assets/hsbc-logo.png";
+//  public static final String CAPGEMINI_LOGO_URL = "/assets/capg-logo.jpg";
+//  public static final String INFOSYS_LOGO_URL = "/assets/infosys-logo.jpg";
+//  public static final String POC_BANNER_URL = "/assets/poc-banner.png";
+  public static final String MY_NAME = "Sachin Singh Rawat";
+  public static final int MY_EXPERIENCE_IN_YEARS = 3;
+  public static final String MY_EMAIL_ID = "sachinsr999.sr@gmail.com";
+  public static final String MAIL_TO_EMAIL = "mailto:" + MY_EMAIL_ID;
+}
