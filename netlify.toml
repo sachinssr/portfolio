@@ -3,3 +3,9 @@ from = "/*"
 to = "https://sachin-portfolio-sint.onrender.com/"
 status = 200
 force = true
+
+# Ensure static files load correctly
+[[headers]]
+for = "/*"
+[headers.values]
+Access-Control-Allow-Origin = "*"
