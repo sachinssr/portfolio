@@ -25,8 +25,8 @@ public final class Constants {
 //  public static final String SECURE_FILE_UPLOAD_LIVE_DEMO_URL = "https://github.com/chandan13tiwari/secure-file-upload";
 //  public static final String GEHU_ONLINE_GITHUB_URL = "https://github.com/chandan13tiwari/GEHU_Online_Project";
 //  public static final String GEHU_ONLINE_LIVE_DEMO_URL = "https://github.com/chandan13tiwari/GEHU_Online_Project";
-  public static final String PROFILE_PIC_ASSET_URL = "/assets/profile-pic.png";
-  public static final String ABOUT_PIC_ASSET_URL = "/assets/about-pic.png";
+  public static final String PROFILE_PIC_ASSET_URL = "/assets/profile-pic.jpg";
+  public static final String ABOUT_PIC_ASSET_URL = "/assets/about-pic.jpg";
   public static final String EXPERIENCE_ASSET_URL = "/assets/experience.png";
   public static final String EDUCATION_ASSET_URL = "/assets/education.png";
   public static final String ARROW_ASSET_URL = "/assets/arrow.png";
